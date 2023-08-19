@@ -1,6 +1,5 @@
 # Hey there! 👋
 
-![Computer Vision GIF](https://example.com/computer-vision-gif.gif)
 
 ## Welcome to Moataz Habib's GitHub Profile!
 
