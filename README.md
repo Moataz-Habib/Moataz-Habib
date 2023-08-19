@@ -17,5 +17,7 @@
 
 ### Connect with Me 🌐
 
-Stay connected through LinkedIn: [Moataz Habib](https://www.linkedin.com/in/moataz-habib-33698426a/)
+Stay connected through LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataz-habib-33698426a/)
 
