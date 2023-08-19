@@ -4,7 +4,7 @@
 
 ## Welcome to Moataz Habib's GitHub Profile!
 
-I'm thrilled to have you here. Join me as I dive into the captivating world of AI, Data Science, and more!
+
 
 ### About Me 🧠
 
