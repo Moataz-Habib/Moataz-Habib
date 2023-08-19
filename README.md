@@ -20,4 +20,3 @@ I'm thrilled to have you here. Join me as I dive into the captivating world of A
 
 Stay connected through LinkedIn: [Moataz Habib](https://www.linkedin.com/in/moataz-habib-33698426a/)
 
-👁️‍🗨️ Profile Visits: ![Profile Visits](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet)
