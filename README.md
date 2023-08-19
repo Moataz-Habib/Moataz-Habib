@@ -15,7 +15,7 @@
 
 👁️‍🗨️ I'm a Computer Vision enthusiast, passionate about unraveling the visual wonders around us.
 
-### Connect with Me 🌐
+### Connect with Me 🔗
 
 Stay connected through LinkedIn:
 
